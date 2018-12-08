@@ -1,6 +1,6 @@
 yazi = "app6"
 print(yazi.startswith("ap")) # String'in " " içinde yazdığımız string ile başlayıp başlamadığını
-print(yazi.startswith("ba")) # true yada false olarak geri döndürüyor.
+print(yazi.startswith("ba"))                                    # true yada false olarak geri döndürüyor.
 
 print(yazi.endswith("p6")) # Yukardaki metodun tam tersini gerçekleştirir.
 print(yazi.endswith("ta"))
