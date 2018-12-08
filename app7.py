@@ -11,7 +11,7 @@ print(yazi.replace("ap","pa")) # Stringteki ap yazan yerleri pa olarak değişti
 
 liste = [1,2,3,4,5,6]
 liste.append(7) # append , listenin sonuna bir eleman eklememizi sağlar.
-liste.append("txt")
+liste.append(" txt ")
 print(liste)
 
 liste.pop(0) # pop , içine yazılan index'i listeden siler
